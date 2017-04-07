@@ -1,0 +1,9 @@
+## Interface: 70200
+## Title: Boss Shots
+## Author: Nihz
+## Version: 1.0
+## Notes: Automatically takes a screenshot on every raid and dungeon boss kill.
+## SavedVariables: BossShotsDB
+
+Libs.xml
+BossShots.lua
